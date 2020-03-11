@@ -4,7 +4,7 @@ This repo contains codes for our study on the long-read genomes of two tilapias,
 
 Assembly: Flye, Racon, juicer, 3d-dna, purge_haplotig, pilon
 
-Annotation: HISAT2, stringtie, MAKER, PASA-pipeline, TRINITY
+Annotation: HISAT2, stringtie, MAKER, PASA-pipeline, TRINITY, RepeatModeler, RepeatMasker
 
 Gene expression: HISAT2, featureCounts
 
